@@ -1,4 +1,5 @@
 ﻿using AiForms.Dialogs.Abstractions;
+using AiFormsDialogSample.Viewmodels;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
